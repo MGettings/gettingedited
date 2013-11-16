@@ -1,0 +1,6 @@
+*.*~
+*.py[oc]
+.doit.db
+.emacs*
+cache
+output
