@@ -5,4 +5,6 @@
 .. title: about
 .. slug: about
 
-My name is Melanie Gettings. I got my PhD in development biology in 2008 from Nice University..
+My name is *Melanie Gettings*. I got my PhD in development biology in 2008 from Nice University..
+
+Here is my `github acount <https://github.com/MGettings>`_

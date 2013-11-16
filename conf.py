@@ -66,7 +66,8 @@ NAVIGATION_LINKS = {
         ('/about.html', 'About'),
         ('/contact.html', 'Contact us'),
         ('/categories/index.html', 'Tags'),
-        #('/blog', 'Blog'),
+	('/subjects-we-edit.html', 'Subjects we edit')        
+	#('/blog', 'Blog'),
     ),
 }
 
